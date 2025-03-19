@@ -21,3 +21,7 @@ footer{
 figure{
     text-align: center;
 }
+label{
+    display: block;
+    margin-top: 10px;
+}
